@@ -7,3 +7,6 @@
 
 ## Electron Ecosystem
 1. [Electron boostraping a new project](https://github.com/electron-userland/electron-forge)
+
+## Redux Ecosystem
+1. [Introduction to Saga by Example](https://medium.freecodecamp.org/async-operations-using-redux-saga-2ba02ae077b3)
